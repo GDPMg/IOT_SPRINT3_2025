@@ -44,6 +44,17 @@ Pipeline: **detecção** (Haar Cascade) → **recorte** com margem → **reconhe
 
 ---
 
+## 📦 Dependências
+
+- [Python 3.10+](https://www.python.org/downloads/)
+- [opencv-contrib-python](https://pypi.org/project/opencv-contrib-python/) → necessário para usar `cv2.face`
+- [numpy](https://pypi.org/project/numpy/)
+
+### Instalação
+```bash
+pip install opencv-contrib-python numpy
+
+
 ## 📊 Principais parâmetros e impacto
 
 | Parâmetro        | Onde           | Efeito prático |

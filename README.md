@@ -1,3 +1,12 @@
+## 👥 Grupo
+
+- **Guilherme Dal Posolo Matheus** — RM: 98694  
+- **Caique Chagas** — RM: 551943  
+- **Guilherme Faustino Vargas** — RM: 98278  
+- **João Lucas Yudi Hedi Handa** — RM: 98458  
+- **Ryan Perez Pacheco** — RM: 98782  
+
+
 # Face ID Local (OpenCV + Haar + LBPH)
 
 ## Objetivo

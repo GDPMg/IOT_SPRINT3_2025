@@ -53,7 +53,7 @@ Pipeline: **detecção** (Haar Cascade) → **recorte** com margem → **reconhe
 ### Instalação
 ```bash
 pip install opencv-contrib-python numpy
-
+````
 
 ## 📊 Principais parâmetros e impacto
 
